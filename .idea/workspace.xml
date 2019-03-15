@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f1c8046-9145-4d26-aa06-bf42e0f11f6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Lynx.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/designpattern/Factory/AK47.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/designpattern/Factory/M4A1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/designpattern/Factory/SimpleFactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/designpattern/Factory/SimpleWeapon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/designpattern/Factory/WeaponFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/singleton/SingleTonDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/singleton/SingleTonHungry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/singleton/SingleTonThreadSafe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/singleton/SingleTonThreadSafeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/singleton/SingletonFull.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/singleton/ThreadTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/sort/ClassicSortAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/sort/SortAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lynx/utils/ArrayUtils.class" beforeDir="false" />
-    </list>
+    <list default="true" id="6f1c8046-9145-4d26-aa06-bf42e0f11f6e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/SimpleFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="876">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="426">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
             </state>
           </provider>
         </entry>
@@ -72,7 +56,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="621" />
     <option name="y" value="60" />
     <option name="width" value="1251" />
@@ -194,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552618011960" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552618533167" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../wechat-public-platform-service/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -308,17 +292,17 @@
       <workItem from="1552358216819" duration="629000" />
       <workItem from="1552443510445" duration="596000" />
       <workItem from="1552529715196" duration="3739000" />
-      <workItem from="1552616047007" duration="1204000" />
+      <workItem from="1552616047007" duration="1734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25271000" />
+    <option name="totallyTimeSpent" value="25801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="621" y="60" width="1251" height="841" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2359362" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18387909" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -328,7 +312,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22881356" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22881356" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -491,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/SimpleFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="876">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="426">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
