@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f1c8046-9145-4d26-aa06-bf42e0f11f6e" name="Default Changelist" comment="" />
+    <list default="true" id="6f1c8046-9145-4d26-aa06-bf42e0f11f6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/FactoryMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,11 +15,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/SimpleFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="1494">
+              <caret line="101" column="32" lean-forward="true" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/FactoryMethodTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#347#348#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#635#636#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,6 +64,7 @@
         <option value="$PROJECT_DIR$/src/main/java/lynx/designpattern/FactoryMethodDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/FactoryMethodDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/FactoryMethodTest.java" />
       </list>
     </option>
   </component>
@@ -56,7 +75,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="621" />
     <option name="y" value="60" />
     <option name="width" value="1251" />
@@ -64,7 +83,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -135,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,17 +187,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="lynx" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaEssensials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaEssensials" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lynx" type="462c0819:PsiDirectoryNode" />
+              <item name="Factory" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552618533167" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wechat-public-platform-service/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552975905909" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../UPS-Wechat-backend/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -196,13 +224,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleFactoryTest">
-    <configuration name="ClassicSortAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lynx.sort.ClassicSortAlgorithm" />
-      <module name="JavaEssensials" />
+  <component name="RunManager" selected="Application.FactoryMethodTest">
+    <configuration name="FactoryMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lynx.designpattern.Factory.FactoryMethodDemo" />
+      <module name="Lynx" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lynx.sort.*" />
+          <option name="PATTERN" value="lynx.designpattern.Factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,8 +238,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lynx.designpattern.Factory.FactoryMethodDemo" />
+    <configuration name="FactoryMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lynx.designpattern.Factory.FactoryMethodTest" />
       <module name="Lynx" />
       <extension name="coverage">
         <pattern>
@@ -264,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactoryMethodTest" />
         <item itemvalue="Application.SimpleFactoryTest" />
         <item itemvalue="Application.FactoryMethodDemo" />
         <item itemvalue="Application.SimpleFactoryDemo" />
         <item itemvalue="Application.SingleTonThreadSafeDemo" />
-        <item itemvalue="Application.ClassicSortAlgorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -292,17 +320,19 @@
       <workItem from="1552358216819" duration="629000" />
       <workItem from="1552443510445" duration="596000" />
       <workItem from="1552529715196" duration="3739000" />
-      <workItem from="1552616047007" duration="1734000" />
+      <workItem from="1552616047007" duration="3108000" />
+      <workItem from="1552974916869" duration="762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25801000" />
+    <option name="totallyTimeSpent" value="27937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="621" y="60" width="1251" height="841" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18387909" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23929471" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -312,7 +342,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22881356" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22881356" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,8 +505,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/SimpleFactoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="1494">
+          <caret line="101" column="32" lean-forward="true" selection-start-line="101" selection-start-column="32" selection-end-line="101" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lynx/designpattern/Factory/FactoryMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
